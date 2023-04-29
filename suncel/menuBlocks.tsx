@@ -1,7 +1,9 @@
 import { MenuBlockSchema } from "@suncel/nextjs";
 import { TitleAndSub } from "./blocks/hero/titleAndSub";
+import flowbiteBlocks from "@suncel/ui/flowbite";
 
 export const menuBlocks: MenuBlockSchema[] = [
+  flowbiteBlocks,
   {
     category: "Page blocks",
     blocks: [
