@@ -46,4 +46,5 @@ Whether you'd like to discuss about this starter template or simply say "hello",
 Email: **[dev@suncel.io](mailto:dev@suncel.io)**
 
 Source: <a href="https://youtu.be/7gK8TX_di94">Guid</a>
-change code
+
+remove
